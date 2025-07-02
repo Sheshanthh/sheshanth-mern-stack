@@ -1,5 +1,3 @@
-# sheshanth-mern-stack
-
 A MERN stack project.
 
 ## Overview
